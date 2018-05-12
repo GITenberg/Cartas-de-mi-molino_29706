@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29706#Cartas-de-mi-molino
 gutenberg_issued: '2009-08-16'
 gutenberg_type: Text
 identifiers:
