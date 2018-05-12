@@ -1,0 +1,34 @@
+_repo: Cartas-de-mi-molino_29706
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cabañas, F.
+    alias: Cabanas, F.
+    gutenberg_agent_id: '34098'
+    url: http://www.gutenberg.org/2009/agents/34098
+covers:
+- cover_type: archival
+  image_path: 29706-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2009-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29706'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+title: Cartas de mi molino
+url: http://www.gutenberg.org/ebooks/29706
